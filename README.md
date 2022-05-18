@@ -3,7 +3,7 @@
 </div>
 <br>
 <br>
-- 🔭 I’m currently working on an interactive data visualization in dash
+- 🔭 I’m currently working on an interactive data visualization in dash<br>
 - 📫 How to reach me: rnowak.jnr@gmail.com
 
 <!--
