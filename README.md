@@ -4,7 +4,7 @@
 </div>
 <br>
 <br>
-- 🔭 I’m currently working on an interactive data visualization webapp in dash<br>
+- 🔭 I’m currently studying Data Science at Software Development Academy<br>
 - 📫 How to reach me: rnowak.jnr@gmail.com
 
 <!--
