@@ -4,7 +4,7 @@
 </div>
 <br>
 <br>
-- 🔭 I’m currently studying Data Science at Software Development Academy<br>
+- 🔭 I’m self-studying data science<br>
 - 📫 How to reach me: rnowak.jnr@gmail.com
 
 <!--
